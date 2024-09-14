@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FOL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menuPrincipal">menu Principal</string>
+    <string name="mae">menu</string>
+    <string name="outraOpcao">Temperatura</string>
+    <string name="ultimaOpcao">Equipamentos</string>
 </resources>

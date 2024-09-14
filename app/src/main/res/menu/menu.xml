@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_principal"
+        android:title="@string/menuPrincipal" />
+    <item
+        android:id="@+id/outra_opcao"
+        android:title="@string/outraOpcao" />
+    <item
+        android:id="@+id/ultima_opcao"
+        android:title="@string/ultimaOpcao" />
+</menu>
